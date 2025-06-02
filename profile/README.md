@@ -21,4 +21,4 @@ Explore artificial intelligence and machine learning concepts.
 
 ---
 
-**Request a topic:** [GitHub Issues](https://github.com/meluron-codecafe/issues) or email themeluron[at]gmail.com
+**Request a topic:** GitHub Issues or email themeluron[at]gmail.com
