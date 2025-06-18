@@ -36,12 +36,12 @@
   </tr>
   <tr>
     <td width="100" align="center">
-      <a href="https://www.github.com/meluron-codecafe/InsideAIML" target="_blank">
-        <img src="https://raw.githubusercontent.com/meluron/assets/refs/heads/main/logos/meluron-codecafe/InsideAIML/orig.png" width="150" alt="toolbox" />
+      <a href="https://www.github.com/meluron-codecafe/InsideAI" target="_blank">
+        <img src="https://raw.githubusercontent.com/meluron/assets/refs/heads/main/logos/meluron-codecafe/InsideAI/orig.png" width="150" alt="toolbox" />
       </a>
     </td>
     <td>
-      <a href="https://github.com/meluron-codecafe/InsideAIML"><strong>InsideAIML</strong></a><br/>
+      <a href="https://github.com/meluron-codecafe/InsideAI"><strong>InsideAI</strong></a><br/>
       <em>A collection of tutorials on topics related to AI-ML using Python</em>
     </td>
   </tr>
