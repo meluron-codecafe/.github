@@ -15,7 +15,7 @@
   <tr>
     <td width="100" align="center">
       <a href="https://www.github.com/meluron-codecafe/InsidePython" target="_blank">
-        <img src="https://raw.githubusercontent.com/meluron/assets/refs/heads/main/logos/meluron-codecafe/orig.png" width="150" alt="toolbox" />
+        <img src="https://raw.githubusercontent.com/meluron/assets/refs/heads/main/logos/meluron-codecafe/InsidePython/orig.png" width="150" alt="toolbox" />
       </a>
     </td>
     <td>
