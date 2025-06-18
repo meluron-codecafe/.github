@@ -26,7 +26,7 @@
   <tr>
     <td width="100" align="center">
       <a href="https://www.github.com/meluron-codecafe/InsideAudioDSP" target="_blank">
-        <img src="https://raw.githubusercontent.com/meluron/assets/refs/heads/main/logos/meluron-codecafe/orig.png" width="150" alt="toolbox" />
+        <img src="https://raw.githubusercontent.com/meluron/assets/refs/heads/main/logos/meluron-codecafe/InsideAudioDSP/orig.png" width="150" alt="toolbox" />
       </a>
     </td>
     <td>
@@ -37,7 +37,7 @@
   <tr>
     <td width="100" align="center">
       <a href="https://www.github.com/meluron-codecafe/InsideAIML" target="_blank">
-        <img src="https://raw.githubusercontent.com/meluron/assets/refs/heads/main/logos/meluron-codecafe/orig.png" width="150" alt="toolbox" />
+        <img src="https://raw.githubusercontent.com/meluron/assets/refs/heads/main/logos/meluron-codecafe/InsideAIML/orig.png" width="150" alt="toolbox" />
       </a>
     </td>
     <td>
