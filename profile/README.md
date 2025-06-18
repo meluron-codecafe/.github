@@ -19,7 +19,7 @@
       </a>
     </td>
     <td>
-      <a href="https://github.com/meluron-toolbox/audiokit"><strong>InsidePython</strong></a><br/>
+      <a href="https://github.com/meluron-codecafe/InsidePython"><strong>InsidePython</strong></a><br/>
       <em>A collection of tutorials on topics related to Python Programming.</em>
     </td>
   </tr>
@@ -41,7 +41,7 @@
       </a>
     </td>
     <td>
-      <a href="https://github.com/meluron-toolbox/metrogen"><strong>InsideAIML</strong></a><br/>
+      <a href="https://github.com/meluron-codecafe/InsideAIML"><strong>InsideAIML</strong></a><br/>
       <em>A collection of tutorials on topics related to AI-ML using Python</em>
     </td>
   </tr>
