@@ -10,7 +10,7 @@
     </td>
   </tr>
 </table>
-
+<hr>
 <table>
   <tr>
     <td width="200" align="center">
