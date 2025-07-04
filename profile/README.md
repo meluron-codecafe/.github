@@ -2,7 +2,7 @@
   <tr>
     <td width="200" valign="middle">
       <a href="https://www.github.com/meluron-toolbox" target="_blank">
-        <img src="https://raw.githubusercontent.com/meluron/assets/refs/heads/main/logos/meluron-codecafe/orig.png" width="250" alt="meluron-codecafe logo" />
+        <img src="https://raw.githubusercontent.com/meluron/assets/refs/heads/main/logos/meluron-codecafe/icon.png" width="250" alt="meluron-codecafe logo" />
       </a>
     </td>
     <td valign="middle">
@@ -15,7 +15,7 @@
   <tr>
     <td width="200" align="center">
       <a href="https://meluron-codecafe.github.io/DevQuest" target="_blank">
-        <img src="https://raw.githubusercontent.com/meluron/assets/refs/heads/main/logos/meluron-codecafe/DevQuest/with_text.png" width="150" alt="DevQuest logo" />
+        <img src="https://raw.githubusercontent.com/meluron/assets/refs/heads/main/logos/meluron-codecafe/DevQuest/icon_with_text.png" width="150" alt="DevQuest logo" />
       </a>
     </td>
     <td>
