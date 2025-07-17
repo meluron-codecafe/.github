@@ -1,7 +1,7 @@
 <table>
   <tr>
     <td width="200" valign="middle">
-      <a href="https://www.github.com/meluron-toolbox" target="_blank">
+      <a href="https://www.github.com/meluron-codecafe" target="_blank">
         <img src="https://raw.githubusercontent.com/meluron/assets/refs/heads/main/logos/meluron-codecafe/icon.png" width="250" alt="meluron-codecafe logo" />
       </a>
     </td>
