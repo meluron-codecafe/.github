@@ -14,7 +14,7 @@
 <table>
   <tr>
     <td width="200" align="center">
-      <a href="https://meluron-codecafe.github.io/DevQuest" target="_blank">
+      <a href="https://github.com/meluron-codecafe/DevQuest" target="_blank">
         <img src="https://raw.githubusercontent.com/meluron/assets/refs/heads/main/logos/meluron-codecafe/DevQuest/icon_with_text.png" width="150" alt="DevQuest logo" />
       </a>
     </td>
