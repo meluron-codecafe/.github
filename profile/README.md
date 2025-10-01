@@ -19,7 +19,7 @@
       </a>
     </td>
     <td>
-      <a href="https://meluron-codecafe.github.io/DevQuest"><strong>DevQuest</strong></a><br/>
+      <a href="https://meluron-codecafe.github.io/DevQuest"><strong>devquest</strong></a><br/>
       <em>Explore Python, Audio DSP, and AI/ML concepts through interactive, notebook-driven learning journeys.</em>
     </td>
   </tr>
