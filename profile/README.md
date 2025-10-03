@@ -14,12 +14,12 @@
 <table>
   <tr>
     <td width="120" align="center">
-      <a href="https://github.com/meluron-codecafe/DevQuest" target="_blank">
-        <img src="https://raw.githubusercontent.com/meluron/assets/refs/heads/main/logos/meluron-codecafe/DevQuest/icon.png" width="120" alt="DevQuest logo" />
+      <a href="https://github.com/meluron-codecafe/devquest" target="_blank">
+        <img src="https://raw.githubusercontent.com/meluron/assets/refs/heads/main/logos/meluron-codecafe/devquest/icon.png" width="120" alt="devquest logo" />
       </a>
     </td>
     <td>
-      <a href="https://meluron-codecafe.github.io/DevQuest"><strong>devquest</strong></a><br/>
+      <a href="https://meluron-codecafe.github.io/devquest"><strong>devquest</strong></a><br/>
       <em>Explore Python, Audio DSP, and AI/ML concepts through interactive, notebook-driven learning journeys.</em>
     </td>
   </tr>
