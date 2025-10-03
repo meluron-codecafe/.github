@@ -20,7 +20,7 @@
     </td>
     <td>
       <a href="https://meluron-codecafe.github.io/devquest"><strong>devquest</strong></a><br/>
-      <em>Explore Python, Audio DSP, and AI/ML concepts through interactive, notebook-driven learning journeys.</em>
+      <em>A platform that implements research papers in Python and explains the concepts behind them, helping learners understand ideas in context.</em>
     </td>
   </tr>
 </table>
